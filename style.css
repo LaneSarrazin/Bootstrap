@@ -1,0 +1,10 @@
+body{
+    background-color: orange;
+}
+header, nav, main{
+    background-color: #FFFF;
+    min-height: 30vh;
+    margin: 2vh auto;
+   
+}
+
